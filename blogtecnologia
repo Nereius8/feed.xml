@@ -10,42 +10,47 @@
 
         <item>
             <title>Nuevo procesador Intel Core i9: Rendimiento extremo</title>
-            <link>https://www.blogdetecnologia.com/nuevo-intel-core-i9</link>
+            <link>https://www.blogdetecnologia.com/nuevo-intel-core-i9</link> <!-- Enlace al artículo-->
             <description>Intel lanza su procesador más potente hasta la fecha</description>
             <pubDate>Tue, 25 Feb 2025 12:00:00 GMT</pubDate>
             <category>Hardware</category>
+            <guid>https://www.blogdetecnologia.com/nuevo-intel-core-i9</guid> <!-- Identificador único para el artículo-->
         </item>
 
         <item>
             <title>Apple lanza nuevo MacBook Pro con chip M3</title>
-            <link>https://www.blogdetecnologia.com/macbook-pro-m3</link>
+            <link>https://www.blogdetecnologia.com/macbook-pro-m3</link><!-- Enlace al artículo-->
             <description>Apple ha presentado su nueva línea de MacBook Pro con el potente chip M3</description>
             <pubDate>Wed, 26 Feb 2025 09:20:00 GMT</pubDate>
             <category>Hardware</category>
+            <guid>https://www.blogdetecnologia.com/macbook-pro-m3</guid><!-- Identificador único para el artículo-->
         </item>
 
         <item>
             <title>Comparativa de las mejores tarjetas gráficas en 2025</title>
-            <link>https://www.blogdetecnologia.com/mejores-graficas-2025</link>
+            <link>https://www.blogdetecnologia.com/mejores-graficas-2025</link><!-- Enlace al artículo-->
             <description>Analizamos el rendimiento, consumo y precio de las mejores GPUs del año</description>
             <pubDate>Wed, 26 Feb 2025 13:30:00 GMT</pubDate>
             <category>Hardware</category>
+            <guid>https://www.blogdetecnologia.com/mejores-graficas-2025</guid><!-- Identificador único para el artículo-->
         </item>
 
         <item>
             <title>Las mejores aplicaciones de IA para  productividad en 2025</title>
-            <link>https://www.blogdetecnologia.com/apps-ia-2025</link>
+            <link>https://www.blogdetecnologia.com/apps-ia-2025</link><!-- Enlace al artículo-->
             <description>Exploramos las aplicaciones de inteligencia artificial que mejoran la productividad</description>
             <pubDate>Fri, 28 Feb 2025 11:30:00 GMT</pubDate>
             <category>Software</category>
+            <guid>https://www.blogdetecnologia.com/apps-ia-2025</guid><!-- Identificador único para el artículo-->
         </item>
 
         <item>
             <title>Python vs. JavaScript: ¿Cuál es mejor para desarrollo web</title>
-            <link>https://www.blogdetecnologia.com/python-vs-javascript</link>
+            <link>https://www.blogdetecnologia.com/python-vs-javascript</link><!-- Enlace al artículo-->
             <description>Comparación detallada entre los dos lenguajes más populares para desarrollo web</description>
             <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
             <category>Programación</category>
+            <guid>https://www.blogdetecnologia.com/python-vs-javascript</guid><!-- Identificador único para el artículo-->
         </item>
     
     </channel>
