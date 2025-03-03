@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+    <channel>
+        <title>Blog de Tecnología - Innovaciones y Noticias</title>
+        <link>https://www.blogdetecnologia.com</link>
+        <description>Últimas noticias y artículos sobre tecnología.</description>
+        <language>es</language>
+        <pubDate>Tue, 25 Feb 2025 10:00:00 GMT</pubDate>
+
+        <item>
+            <title>Nuevo procesador Intel Core i9: Rendimiento extremo</title>
+            <link>https://www.blogdetecnologia.com/nuevo-intel-core-i9</link>
+            <description>Intel lanza su procesador más potente hasta la fecha</description>
+            <pubDate>Tue, 25 Feb 2025 12:00:00 GMT</pubDate>
+            <category>Hardware</category>
+        </item>
+
+        <item>
+            <title>Apple lanza nuevo MacBook Pro con chip M3</title>
+            <link>https://www.blogdetecnologia.com/macbook-pro-m3</link>
+            <description>Apple ha presentado su nueva línea de MacBook Pro con el potente chip M3</description>
+            <pubDate>Wed, 26 Feb 2025 09:20:00 GMT</pubDate>
+            <category>Hardware</category>
+        </item>
+
+        <item>
+            <title>Comparativa de las mejores tarjetas gráficas en 2025</title>
+            <link>https://www.blogdetecnologia.com/mejores-graficas-2025</link>
+            <description>Analizamos el rendimiento, consumo y precio de las mejores GPUs del año</description>
+            <pubDate>Wed, 26 Feb 2025 13:30:00 GMT</pubDate>
+            <category>Hardware</category>
+        </item>
+
+        <item>
+            <title>Las mejores aplicaciones de IA para  productividad en 2025</title>
+            <link>https://www.blogdetecnologia.com/apps-ia-2025</link>
+            <description>Exploramos las aplicaciones de inteligencia artificial que mejoran la productividad</description>
+            <pubDate>Fri, 28 Feb 2025 11:30:00 GMT</pubDate>
+            <category>Software</category>
+        </item>
+
+        <item>
+            <title>Python vs. JavaScript: ¿Cuál es mejor para desarrollo web</title>
+            <link>https://www.blogdetecnologia.com/python-vs-javascript</link>
+            <description>Comparación detallada entre los dos lenguajes más populares para desarrollo web</description>
+            <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
+            <category>Programación</category>
+        </item>
+    
+    </channel>
+
+</rss>
