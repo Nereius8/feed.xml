@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Actualizaciones Educativas</title>
+    <link href="https://www.plataformaeducativa.com/actualizaciones"/>
+    <update>2025-03-09T09:00:00Z</update>
+    <author>
+        <name>Plataforma Educativa</name>
+    </author>
+    <id>https://www.plataformaeducativa.com/feed</id>
+
+    <entry>
+        <title>Nuevas clases de Informática disponibles</title>
+        <link href="https://plataformaeducativa.com/cursos/informatica"/>
+        <id>https://www.plataformaeducativa.com/cursos/informatica</id>
+        <update>2025-03-09T08:30:00Z</update>
+        <summary>Se han agregado nuevas clases y ejercicios de informática para nivel intermedio.</summary>
+        <author>
+            <name>Profesora María López</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Conferencia sobre inteligencia artificial en la educación</title>
+        <link href="https://plataformaeducativa.com/eventos/ia-educacion"/>
+        <id>https://www.plataformaeducativa.com/eventos/ia-educacion</id>
+        <update>2025-03-08T16:30:00Z</update>
+        <summary>Únete a nuestra conferencia virtual sobre el impacto de la inteligencia artificial
+            en la enseñanza.</summary>
+        <author>
+            <name>Departamento de Innovación Educativa</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Podcast: Ciencia y Tecnología en la educación moderna</title>
+        <link href="https://plataformaeducativa.com/podcast/ciencia-tecnologia"/>
+        <id>https://www.plataformaeducativa.com/podcast/ciencia-tecnologia</id>
+        <update>2025-03-08T12:00:00Z</update>
+        <summary>Escucha nuestro último episodio donde expertos analizan cómo la tecnología está transformando la educación.</summary>
+        <author>
+            <name>Equipo de Divulgación Científica</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Introducción a la Programación en Python</title>
+        <link href="https://plataformaeducativa.com/cursos/python-introduccion"/>
+        <id>https://www.plataformaeducativa.com/cursos/python-introduccion</id>
+        <update>2025-03-07T13:10:00Z</update>
+        <summary>Descarga nuestro programa gratuito para aprender los fundamentos de Python con ejercicios prácticos.</summary>
+        <author>
+            <name>Profesora Carolina Marea</name>
+        </author>
+    </entry>
+
+</feed>
